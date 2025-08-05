@@ -1,3 +1,8 @@
+## 📖 Panduan Lengkap
+Panduan penggunaan dan dokumentasi lengkap proyek ini bisa diakses melalui Notion:
+
+👉 [Lihat Panduan di Notion](https://raihan-maulana.notion.site/Marketplace-TokoKita-23e448df329180c89400c4c9ca5eec95)
+
 ###################
 What is CodeIgniter
 ###################
